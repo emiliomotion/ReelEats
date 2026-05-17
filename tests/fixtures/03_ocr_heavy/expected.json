@@ -1,0 +1,20 @@
+{
+  "is_recipe": true,
+  "low_audio_signal": true,
+  "title": "Banana Bread",
+  "ingredient_count_min": 8,
+  "key_ingredients": [
+    { "item": "banana", "quantity": 3, "unit": "piece" },
+    { "item": "all-purpose flour", "quantity": 2, "unit": "cup" },
+    { "item": "sugar", "quantity": 0.75, "unit": "cup" },
+    { "item": "unsalted butter", "quantity": 0.5, "unit": "cup" },
+    { "item": "egg", "quantity": 2, "unit": "piece" },
+    { "item": "vanilla extract", "quantity": 1, "unit": "tsp" },
+    { "item": "baking soda", "quantity": 1, "unit": "tsp" },
+    { "item": "salt", "quantity": 0.5, "unit": "tsp" }
+  ],
+  "step_count_min": 4,
+  "temperature_present": "350F",
+  "step_durations_present": [3900],
+  "technique_notes_present": ["don't overmix"]
+}

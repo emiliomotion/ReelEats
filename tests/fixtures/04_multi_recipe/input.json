@@ -1,0 +1,26 @@
+{
+  "caption": "3 ways to use up zucchini 🥒 save this before summer ends",
+  "creatorHandle": "veggieheavy",
+  "transcript": [
+    { "text": "Okay so I have way too much zucchini and here are three ways to use it.", "start_ts": 0, "end_ts": 4 },
+    { "text": "First up, zucchini fritters. Grate two medium zucchini and squeeze out all the water.", "start_ts": 4, "end_ts": 9 },
+    { "text": "Mix with one egg, a quarter cup flour, salt, pepper, and half a cup of feta.", "start_ts": 9, "end_ts": 14 },
+    { "text": "Pan fry in olive oil about 3 minutes per side until golden.", "start_ts": 14, "end_ts": 18 },
+    { "text": "Second recipe is zucchini pasta. Use a spiralizer to make noodles from two zucchini.", "start_ts": 20, "end_ts": 25 },
+    { "text": "Toss with pesto and halved cherry tomatoes. So easy.", "start_ts": 25, "end_ts": 29 },
+    { "text": "Third is a simple zucchini soup. Sauté one onion and two cloves garlic.", "start_ts": 31, "end_ts": 36 },
+    { "text": "Add four cups diced zucchini, four cups vegetable broth.", "start_ts": 36, "end_ts": 41 },
+    { "text": "Simmer 20 minutes then blend until smooth.", "start_ts": 41, "end_ts": 45 }
+  ],
+  "ocrFrames": [
+    { "text": "Recipe 1: Zucchini Fritters", "timestamp": 4 },
+    { "text": "2 medium zucchini", "timestamp": 6 },
+    { "text": "1 egg, ¼ cup flour, ½ cup feta", "timestamp": 10 },
+    { "text": "3 min per side", "timestamp": 16 },
+    { "text": "Recipe 2: Zucchini Pasta", "timestamp": 20 },
+    { "text": "2 zucchini + pesto + cherry tomatoes", "timestamp": 26 },
+    { "text": "Recipe 3: Zucchini Soup", "timestamp": 31 },
+    { "text": "4 cups zucchini, 4 cups veg broth", "timestamp": 38 },
+    { "text": "Simmer 20 min, then blend", "timestamp": 43 }
+  ]
+}

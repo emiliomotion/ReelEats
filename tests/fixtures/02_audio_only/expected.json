@@ -1,0 +1,17 @@
+{
+  "is_recipe": true,
+  "low_audio_signal": false,
+  "title": "Weeknight Spaghetti",
+  "ingredient_count_min": 7,
+  "key_ingredients": [
+    { "item": "spaghetti", "quantity": 1, "unit": "lb" },
+    { "item": "onion", "quantity": 0.5, "unit": "piece" },
+    { "item": "garlic", "quantity": 4, "unit": "clove" },
+    { "item": "olive oil", "quantity": 2, "unit": "tbsp" },
+    { "item": "crushed tomatoes", "quantity": 28, "unit": "oz" },
+    { "item": "dried oregano", "quantity": 1, "unit": "tsp" }
+  ],
+  "step_count_min": 5,
+  "step_durations_present": [300, 60, 900],
+  "vague_ingredients": ["fresh basil", "parmesan"]
+}
