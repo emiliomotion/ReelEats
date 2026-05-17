@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400;1,9..144,500&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FAFAF9;
+    --foreground: #1C1917;
+    --accent: #E8A33D;
+    --accent-foreground: #1C1917;
+    --muted: #F5F5F4;
+    --muted-foreground: #78716C;
+    --border: #E7E5E4;
+    --input: #E7E5E4;
+    --card: #FFFFFF;
+    --card-foreground: #1C1917;
+    --destructive: #DC2626;
+    --ring: #E8A33D;
+  }
+
+  .dark {
+    --background: #0C0A09;
+    --foreground: #F5F5F4;
+    --accent: #E8A33D;
+    --accent-foreground: #1C1917;
+    --muted: #1C1917;
+    --muted-foreground: #A8A29E;
+    --border: #292524;
+    --input: #292524;
+    --card: #1C1917;
+    --card-foreground: #F5F5F4;
+    --destructive: #EF4444;
+    --ring: #E8A33D;
+  }
+
+  * {
+    border-color: var(--border);
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3 {
+    font-family: 'Fraunces', Georgia, serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .font-display {
+    font-family: 'Fraunces', Georgia, serif;
+  }
+}
